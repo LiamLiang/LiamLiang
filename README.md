@@ -1,6 +1,6 @@
 👋 Hi, I’m Lizhen Liang, I am a doctoral candidate @SyracuseU, iSchool        
-📖 I’m interested in Data Science, Computational Social Science, Natural Language Processing, Ethics in AI, and Data Journalism!        
-⚓ Homepage: liamliang.github.io   
+📖 I’m interested in Data Science, Computational Social Science, Natural Language Processing, Science of Science, Ethics in AI, and Data Journalism!        
+⚓ <a href="https://liamliang.github.io">Homepage</a> <a href="https://scholar.google.com/citations?user=JDiFC4UAAAAJ&hl=en">Google Scholar</a> <a href="https://www.linkedin.com/in/lizhenliang/">LinkedIn</a>   
 📧 email: lliang06@syr.edu        
 
 <!---
