@@ -1,7 +1,7 @@
 **Lizhen Liang | 梁力臻**
 
 <details>
-
+<summary>English</summary>
 AI/ML Engineer | Investing Specialist  
 Zhongshan Public Utilities Group Co.
 
@@ -31,7 +31,7 @@ Ph.D. in Information Science and Technology from the iSchool at Syracuse Univers
 </details>
 
 <details>
-
+<summary>中文</summary>
 人工智能/机器学习工程师 | 投资专员  
 中山公用事业集团股份有限公司
 Ph.D. | 信息科学与技术 | 雪城大学
